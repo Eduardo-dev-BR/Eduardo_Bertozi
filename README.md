@@ -5,6 +5,9 @@
 - 🔭 Tenho 25 Anos, Front-End Developer (remoto) na SD Tecnologia São Paulo - SP
 - 📘 Estudando desenvolvimento de software na StackX Joinvile - SC
 
+
+## Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,10 +19,10 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain-wordmark.svg">
 </div>
 
-## Tecnologias
 - Front End: HTML5, CSS3, Bootstrap, Javascript
 - Back End: PHP, Node.Js
-- Otras: Wordpress, Woo Commerce
+- Outras: Wordpress, Woo Commerce
+- 
 ## Fale Comigo 📣
 
 <div>
