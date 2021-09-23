@@ -3,7 +3,7 @@
 ### Sobre Mim
 
 - 🔭 Tenho 25 Anos, Front-End Developer (remoto) na SD Tecnologia São Paulo - SP
-- 📘 Estudando desenvolvimento de software da StackX Joinvile - SC
+- 📘 Estudando desenvolvimento de software na StackX Joinvile - SC
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
