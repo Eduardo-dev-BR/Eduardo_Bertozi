@@ -10,6 +10,7 @@
 
 - Front End: HTML5, CSS3, Bootstrap, Javascript
 - Back End: PHP, Node.Js
+- Database: SQL, MySQL
 - Outras: Wordpress, Woo Commerce
 <br />
 <div style="display: inline_block"><br>
@@ -19,6 +20,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain-wordmark.svg">
 </div>
