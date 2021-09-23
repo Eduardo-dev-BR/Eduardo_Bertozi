@@ -17,9 +17,9 @@
 </div>
 
 ## Tecnologias
-- Front End: HTML5, CSS3, Javascript
+- Front End: HTML5, CSS3, Bootstrap, Javascript
 - Back End: PHP, Node.Js
-
+- Otras: Wordpress, Woo Commerce
 ## Fale Comigo 📣
 
 <div>
