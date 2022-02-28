@@ -10,7 +10,7 @@
 
 - Front End: HTML5, CSS3, Bootstrap, Javascript, React, Next JS
 - Back End: PHP, Node
-- Database: SQL, MySQL
+- Database: SQL Server, MySQL, MongoDB
 - Other Tools: Firebase
 <br />
 <div style="display: inline_block"><br>
