@@ -1,31 +1,32 @@
-## Olá, Bem vindo 👋
+## Hello, Wellcome 👋
 
-### Sobre Mim
+### About
+- Nationality - Brazil 🟩🟨
+- 🔭 25 Years, Front-End Developer on SD Tecnologia Joinville - SC
+- 📘 Software Development on StackX Joinville - SC
 
-- 🔭 Tenho 25 Anos, Front-End Developer (remoto) na SD Tecnologia São Paulo - SP
-- 📘 Estudando desenvolvimento de software na StackX Joinvile - SC
 
+## Technologies
 
-## Tecnologias
-
-- Front End: HTML5, CSS3, Bootstrap, Javascript
-- Back End: PHP, Node.Js
+- Front End: HTML5, CSS3, Bootstrap, Javascript, React, Next JS
+- Back End: PHP, Node
 - Database: SQL, MySQL
-- Outras: Wordpress, Woo Commerce
+- Other Tools: Firebase
 <br />
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reactjs-plain.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/nextjs-plain.svg"> 
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain-wordmark.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
-## Fale Comigo 📣
+## Contact-me 📣
 
 <div>
  <a href="https://discord.com/channels/@me/eduardobertozi#7174" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
