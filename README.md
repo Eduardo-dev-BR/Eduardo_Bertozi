@@ -26,7 +26,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png">
+  <img align="center" alt="Edu-Js" height="30" width="30" src="https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png">
 </div>
 
 ## Contact-me 📣
