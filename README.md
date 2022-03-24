@@ -8,10 +8,11 @@
 
 ## Technologies
 
-- Front End: HTML5, CSS3, Bootstrap, Javascript, React, Next JS
-- Back End: PHP, Node
-- Database: SQL Server, MySQL, MongoDB
-- Other Tools: Firebase
+- UX / UI : Figma, Adobe XD
+- Front-end: HTML, CSS, Bootstrap, Javascript, ReactJS, NextJS, Tailwind CSS, Styled Components
+- Back-end: Node, Delphi, PHP, Firebase
+- Database: MySQL, MongoDB, Firestorm
+
 <br />
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +26,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png">
 </div>
 
 ## Contact-me 📣
