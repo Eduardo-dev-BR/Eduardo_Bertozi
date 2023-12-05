@@ -2,7 +2,7 @@
 
 ### About
 - Nationality - Brazil 🟩🟨
-- 🔭 25 Years, Front-End Developer on SD Tecnologia Joinville - SC
+- 🔭 27 Years, Front-End Developer on SD Tecnologia Joinville - SC
 - 📘 Software Development on StackX Joinville - SC
 
 
