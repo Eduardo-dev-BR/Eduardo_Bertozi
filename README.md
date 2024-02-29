@@ -1,38 +1,25 @@
-## Hello, Wellcome 👋
+## Hi, i'm Edu 👋
 
 ### About
-- Nationality - Brazil 🟩🟨
-- 🔭 27 Years, Front-End Developer on SD Tecnologia Joinville - SC
-- 📘 Software Development on StackX Joinville - SC
+- 👨🏽 27 Years
+- 👷 Frontend Developer
+- 🇧🇷 Barra Velha, Santa Catarina - Brazil 
+- 📘 Studing Software Engineering - Descomplica College
 
-
-## Technologies
-
-- UX / UI : Figma, Adobe XD
-- Front-end: HTML, CSS, Bootstrap, Javascript, ReactJS, NextJS, Tailwind CSS, Styled Components
-- Back-end: Node, PHP
-- Database: MySQL, MongoDB
+## Skills
+- HTML5
+- CSS
+- Tailwind CSS
+- Typescript
+- ReactJS 
+- NextJS (V13+)
+- NodeJS
+- PrismaORM
+- NestJS
 
 <br />
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> 
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
-</div>
 
-## Contact-me 📣
+## Contact 📣
 
 <div>
  <a href="https://discord.com/channels/@me/eduardobertozi#7174" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
