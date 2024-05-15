@@ -1,7 +1,7 @@
 ## Hi, i'm Edu 👋
 
 ### About
-- 👨🏽 27 Years
+- 👨🏽 28 Years
 - 👷 Frontend Developer
 - 🇧🇷 Barra Velha, Santa Catarina - Brazil 
 - 📘 Studing Software Engineering - Descomplica College
