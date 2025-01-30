@@ -10,15 +10,10 @@
 ## Skills with
 <div style="display:flex;flex-directon:row;gap:16px;">
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
-  <div></div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' style="width: 24px;">
-  <div></div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' style="width: 24px;">
-  <div></div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg' style="width: 24px;">
-  <div></div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg' style="width: 24px;">
-  <div></div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg' style="width: 24px;">
 </div>
 
