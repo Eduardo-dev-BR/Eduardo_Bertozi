@@ -8,12 +8,11 @@
 - 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
 ## Skills
-- Typescript <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg'>
-- NextJS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg'>
-- Tailwind CSS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg'>
-- NodeJS / NestJs <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg'><img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg'>
-- Prisma ORM <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg'>
-- SQL (Mysql, Postgres, SQL Server)
+- Typescript <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' with={24}>
+- NextJS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' with={24}>
+- Tailwind CSS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' with={24}>
+- NodeJS / NestJs <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg' with={24}><img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg' with={24}>
+- Prisma ORM <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg' with={24}>
 
 ## Interests
 - S.O.L.I.D
