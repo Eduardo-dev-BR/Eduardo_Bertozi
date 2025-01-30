@@ -7,8 +7,7 @@
 - 📘 Studing Software Engineering - Descomplica College
 - 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
-## Skills
-<div style="display: flex;">
+<div style="display: flex; gap: 4px;">
  <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
  <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' style="width: 24px;">
  <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' style="width: 24px;">
