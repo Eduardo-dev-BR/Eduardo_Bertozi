@@ -7,13 +7,25 @@
 - 📘 Studing Software Engineering - Descomplica College
 - 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
-<div style="display: flex; gap: 16px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' style="width: 24px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' style="width: 24px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg' style="width: 24px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg' style="width: 24px;">
- <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg' style="width: 24px;">
+<div style="display: flex;">
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+    <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' style="width: 24px;">
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' style="width: 24px;">
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg' style="width: 24px;">
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg' style="width: 24px;">
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg' style="width: 24px;">
+  </div>
 </div>
 
 ## Interests
