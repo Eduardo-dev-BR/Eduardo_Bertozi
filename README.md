@@ -5,8 +5,7 @@
 - 👷 Fullstack Developer
 - 🇧🇷 Barra Velha, Santa Catarina - Brazil 
 - 📘 Studing Software Engineering - Descomplica College
-- 🏳 Portuguese (Native), English (begginer in progress 🏋)
-
+- 🏳 Portuguese, English
 ## Skills with
 <div style="display:flex;flex-directon:row;gap:16px;">
   <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
