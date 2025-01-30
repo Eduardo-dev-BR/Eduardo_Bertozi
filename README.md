@@ -1,21 +1,26 @@
 ## Hi, i'm Edu 👋
 
 ### About
-- 👨🏽 28 Years
-- 👷 Frontend Developer
+- 👨🏽 Eduardo Bertozi, apr - 1996
+- 👷 Fullstack Developer
 - 🇧🇷 Barra Velha, Santa Catarina - Brazil 
 - 📘 Studing Software Engineering - Descomplica College
+- 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
 ## Skills
-- HTML5
-- CSS
-- Tailwind CSS
-- Typescript
-- ReactJS 
-- NextJS (V13+)
-- NodeJS
-- PrismaORM
-- NestJS
+- Typescript <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg'>
+- NextJS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg'>
+- Tailwind CSS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg'>
+- NodeJS / NestJs <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg'><img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg'>
+- Prisma ORM <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg'>
+- SQL (Mysql, Postgres, SQL Server)
+
+## Interests
+- S.O.L.I.D
+- Design Patterns
+- Clean Architeture
+- Microsservices
+- CLoud computing
 
 <br />
 
