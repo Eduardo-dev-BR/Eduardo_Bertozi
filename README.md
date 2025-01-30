@@ -8,7 +8,7 @@
 - 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
 ## Skills
-- Typescript <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' width={24}>
+- Typescript <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
 - NextJS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg' width={24}>
 - Tailwind CSS <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg' width={24}>
 - NodeJS / NestJs <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg' width={24}><img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg' width={24}>
