@@ -8,7 +8,8 @@
 - 🏳 Portuguese (Native), English (begginer in progress 🏋)
 
 <div style="display: flex;">
-  <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
+  <div style="display:flex;align-items:center;flex-direction:column;gap:2px; margin: 0 16px;">
+    Typescript
     <img src='https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg' style="width: 24px;">
   </div>
   <div style="display: flex; flex-direction: column; gap: 2px; margin: 0 16px;">
